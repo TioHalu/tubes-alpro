@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586491033 source:d:\semester 2\praktikum algoritma dan pemrograman\tubes alpro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

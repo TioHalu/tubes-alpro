@@ -1,0 +1,16 @@
+deapeature=2
+arrival=3
+
+jumlah penumpang=1
+harga yang dikeluarkan=45000000
+###########################deapeature=2
+arrival=3
+
+jumlah penumpang=2
+harga yang dikeluarkan=72000000
+###########################deapeature=7
+arrival=9
+
+jumlah penumpang=2
+harga yang dikeluarkan=540000000
+###########################
